@@ -1,24 +1,27 @@
-# images
+<h1 align="center"><a href="https://github.com/MaoSource" target="_blank">images</a></h1>
 
-## Project setup
-```
-npm install
-```
+> images 是 [Img](https://github.com/halo-dev/halo) 的前端UI项目。
+> 
+> 主要技术：vue + vant + filepond + element-ui 对移动端和PC都做了适配
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 快速开始
 
-### Compiles and minifies for production
-```
-npm run build
+拉取最新代码：
+
+```bash
+git clone https://github.com/MaoSource/images.git
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+页面截图
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
+
+![img_3.png](img_3.png)
+
+![img_4.png](img_4.png)
+
+![img_5.png](img_5.png)
