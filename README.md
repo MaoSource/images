@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://github.com/MaoSource" target="_blank">images</a></h1>
 
-> images 是 [Img](https://github.com/halo-dev/halo) 的前端UI项目。
+> images 是 [Img](https://github.com/MaoSource/Img) 的前端UI项目。
 > 
 > 主要技术：vue + vant + filepond + element-ui 对移动端和PC都做了适配
 
