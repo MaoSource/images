@@ -4,7 +4,7 @@
 > 
 > 主要技术：vue + vant + filepond + element-ui 对移动端和PC都做了适配
 
-[预览地址](http://1.14.135.121)
+[预览地址](https://file.maosource.com/)
 
 ## 快速开始
 
